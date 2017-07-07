@@ -15,6 +15,7 @@
 		3710C1591EF176A6004B8E9F /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3710C1511EF16357004B8E9F /* Model.swift */; };
 		378D2FE21EF25A0000BE3AF0 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378D2FE11EF25A0000BE3AF0 /* Constant.swift */; };
 		378D2FE31EF25AD100BE3AF0 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378D2FE11EF25A0000BE3AF0 /* Constant.swift */; };
+		37944CA41F0FC1F300C960B5 /* readMe.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 37944CA31F0FC1F300C960B5 /* readMe.rtf */; };
 		379453F11EE9477900A1A823 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379453F01EE9477900A1A823 /* AppDelegate.swift */; };
 		379453F61EE9477900A1A823 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 379453F41EE9477900A1A823 /* Main.storyboard */; };
 		379453F81EE9477900A1A823 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 379453F71EE9477900A1A823 /* Assets.xcassets */; };
@@ -95,6 +96,7 @@
 		3710C1551EF169D1004B8E9F /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		3710C1571EF16EAC004B8E9F /* EmployeeDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmployeeDetailViewController.swift; sourceTree = "<group>"; };
 		378D2FE11EF25A0000BE3AF0 /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		37944CA31F0FC1F300C960B5 /* readMe.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = readMe.rtf; sourceTree = "<group>"; };
 		379453ED1EE9477900A1A823 /* FirstWatchOSApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstWatchOSApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		379453F01EE9477900A1A823 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		379453F51EE9477900A1A823 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 		379453E41EE9477900A1A823 = {
 			isa = PBXGroup;
 			children = (
+				37944CA31F0FC1F300C960B5 /* readMe.rtf */,
 				3710C1501EF15CEB004B8E9F /* Common */,
 				378D2FDF1EF24A1600BE3AF0 /* iOS */,
 				378D2FE01EF24A2200BE3AF0 /* watchOS */,
@@ -424,6 +427,7 @@
 			files = (
 				379453FB1EE9477900A1A823 /* LaunchScreen.storyboard in Resources */,
 				379453F81EE9477900A1A823 /* Assets.xcassets in Resources */,
+				37944CA41F0FC1F300C960B5 /* readMe.rtf in Resources */,
 				379453F61EE9477900A1A823 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
